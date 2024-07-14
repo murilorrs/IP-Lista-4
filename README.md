@@ -1,1 +1,1 @@
-# IP-Lista-4
+Lista 4 da matéria de Introdução a Programação no curso de Sistemas de Informação na UFG
